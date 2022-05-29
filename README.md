@@ -22,6 +22,11 @@ Note that the starter files that are provided for this Challenge contain a pragm
 
 - Create the KaseiCoin deployer contract.
 
-- Perform a real-world, pre-production test of your crowdsale. In order to do so, you will deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
+- Record a short video or take a screenshot that shows the deployed contract.
 
-- Record a short video or take several screenshots that show the deployed contract in action.
+## Deployed Contract
+Here you can see the deployed contract in action!
+[![Screenshot-22.png](https://i.postimg.cc/sgm5sR4z/Screenshot-22.png)](https://postimg.cc/0z6z0F4X)
+
+## Technologies
+Remix IDE was used to code the smart contracts in Solidity. 
